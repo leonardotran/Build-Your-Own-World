@@ -1,4 +1,5 @@
-### This game was built from scratch with no guidance.
+
+### This game was built from scratch with no guidance. 
 
 
 ### Hi there,  welcome to our group repo 👋
