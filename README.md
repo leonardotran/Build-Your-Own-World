@@ -1,3 +1,4 @@
+https://www.youtube.com/watch?v=AAzfCUpBfTE
 
 ### This game was built from scratch with no guidance. As the class's rule, there will be no code in this repo, please email me if you're interested in building this game @ leonardotran2108@gmail.com
 
